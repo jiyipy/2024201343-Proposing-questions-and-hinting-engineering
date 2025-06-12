@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fb4295d-b7ea-4951-96d9-baa5603fa6b1" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/PythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/data/beijing_tianqi_2019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/data/score.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/data/studdent.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/data/中国数字经济.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/data/航空公司.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_1/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_1/test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_1/week_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_1/第一周作业/pandas作业.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_1/第一周作业/score.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_1/第一周作业/studdent.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/week_2/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/.idea/yolo_study_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/1873b9e561a21035d1feae9b6e4eedfe.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/1_load modol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/2_data training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/3_1 screen detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/3_screen detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/4_move and click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/YOLO介绍.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/output.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/yolov8l.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/yolov8n.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/yolov8x.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/网络图片地址.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/训练图片/标注文件/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x1加载预训练模型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x2检测网络图片、视频.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x3准备数据集结构文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x4准备训练图片和标注.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x5准备数据集配置文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x6开始模型训练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/x7测试模型结果.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/train/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/images/val/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/train/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8/课程源码/xun/labels/val/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/YOLOv8课程资料（大发程序员）/v1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/a74136e5a14f5a5a0a9721dbf8d9f400ade61f05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/classifyer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/detect model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/output.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/reindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/predict/0.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/predict2/0.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/predict3/v1.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/predict4/0.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/F1_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/PR_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/P_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/R_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/confusion_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/confusion_matrix_normalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/labels_correlogram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/train_batch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/train_batch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/train_batch980.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/train_batch981.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/train_batch982.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/val_batch0_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/val_batch0_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/runs/detect/train/weights/last.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/104.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/107.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/108.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/109.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/110.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/112.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/113.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/114.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/115.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/116.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/117.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/118.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/119.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/120.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/122.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/123.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/124.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/125.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/126.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/127.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/128.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/129.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/130.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/131.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/132.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/133.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/134.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/135.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/136.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/137.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/138.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/139.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/140.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/141.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/142.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/143.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/144.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/145.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/146.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/147.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/148.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/149.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/150.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/151.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/152.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/153.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/154.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/155.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/157.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/158.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/159.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/160.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/161.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/162.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/163.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/164.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/165.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/166.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/167.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/168.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/169.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/170.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/171.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/172.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/173.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/174.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/175.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/176.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/177.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/178.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/179.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/180.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/181.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/182.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/183.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/184.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/185.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/186.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/187.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/188.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/189.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/190.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/191.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/192.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/193.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/194.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/195.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/196.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/197.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/51.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/52.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/53.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/54.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/55.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/56.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/58.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/62.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/63.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/65.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/66.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/67.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/68.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/69.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/70.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/71.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/72.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/73.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/74.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/76.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/79.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/81.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/82.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/84.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/87.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/88.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/89.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/91.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/92.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/93.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/94.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/95.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/96.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/97.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/99.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/train/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/images/val/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/val/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yolo_study_1/validation set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_2/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_2/test_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/103.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/104.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/105.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/106.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/110.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/113.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/114.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/115.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/116.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/117.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/118.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/119.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/120.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/121.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/122.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/124.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/125.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/126.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/127.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/128.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/129.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/130.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/131.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/132.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/133.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/134.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/135.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/138.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/139.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/141.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/142.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/143.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/145.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/148.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/149.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/151.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/154.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/156.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/157.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/158.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/162.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/165.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/166.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/167.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/169.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/171.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/172.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/173.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/174.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/176.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/178.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/179.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/180.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/181.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/182.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/183.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/186.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/187.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/188.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/189.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/190.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/191.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/192.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/193.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/194.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/195.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/196.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/55.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/61.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/62.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/63.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/65.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/66.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/67.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/69.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/70.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/71.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/72.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/73.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/74.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/75.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/76.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/77.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/81.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/82.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_3/test_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_4/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/week_5/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/102.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/103.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/105.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/106.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/156.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/task_screw_annotations_2025_03_10_07_24_49_yolo 1.1/obj_train_data/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/4_label/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/103.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/103.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/108.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/108.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/109.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/135.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/135.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/136.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/136.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/137.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/137.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/138.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/138.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/139.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/139.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/141.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/141.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/144.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/144.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/145.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/145.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/146.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/146.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/147.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/147.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/148.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/149.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/149.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/151.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/151.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/152.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/152.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/153.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/153.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/155.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/155.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/156.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/156.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/157.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/158.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/158.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/159.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/159.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/161.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/161.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/163.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/163.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/164.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/164.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/166.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/167.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/167.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/168.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/168.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/169.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/170.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/171.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/171.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/172.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/172.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/173.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/173.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/174.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/174.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/175.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/175.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/177.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/177.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/178.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/178.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/179.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/179.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/181.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/181.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/182.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/182.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/183.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/183.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/185.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/185.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/186.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/186.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/188.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/188.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/189.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/189.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/190.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/190.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/193.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/193.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/195.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/195.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/197.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/197.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/51.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/51.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/61.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/61.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/63.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/66.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/67.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/67.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/71.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/71.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/73.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/73.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/74.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/74.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/77.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/78.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/78.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/81.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/81.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/82.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/82.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/86.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/86.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/88.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/91.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/92.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/92.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/94.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/96.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/96.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/98.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/98.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data 2/images/train/99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../yolo_study_1/training data/labels/train.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jiyipy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jiyipy/yolo_study_1.git",
+    "accountId": "2b045167-a381-453b-8935-682cc0ae57be"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tsUNRQnkn7N4kdBidqWRgfTtV1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master__2&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="YOLO_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5fb4295d-b7ea-4951-96d9-baa5603fa6b1" name="更改" comment="" />
+      <created>1741140234590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741140234590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../YOLO_study/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
