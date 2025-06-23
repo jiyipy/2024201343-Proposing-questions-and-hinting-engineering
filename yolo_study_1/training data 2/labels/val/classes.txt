@@ -1,3 +1,0 @@
-screw_tl_001
-screw_fs_001
-screw_rest
